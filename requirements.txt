@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tensorflow
+earthengine-api
+PyJWT
+python-multipart
+pydantic
+requests
+react
